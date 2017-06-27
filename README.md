@@ -2,4 +2,5 @@
 learning repository
 
 
-not sure if this will update!
+This is just for learning.
+
